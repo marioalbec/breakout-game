@@ -10,8 +10,7 @@ Usa las flechas izquierda y derecha para mover la barra. Presiona **espacio** pa
 
 ## Integrantes
 
-- Nombre Apellido - usuarioGitHub
-- Nombre Apellido - usuarioGitHub
+- Mario Alberto Castellanos Martínez - marioalbec
 
 ## Enlace al juego
 
