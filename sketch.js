@@ -61,7 +61,7 @@ function resetRound() {
 
 function setupLevel(lvl) {
   blocks = [];
-  let rows = lvl + 1;
+  let rows = lvl;
   let cols = 10;
   for (let r = 0; r < rows; r++) {
     for (let c = 0; c < cols; c++) {
